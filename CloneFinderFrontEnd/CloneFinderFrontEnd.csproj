@@ -66,7 +66,7 @@
 		</PackageReference>
 		<PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
 		<PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
-		<PackageReference Include="Microsoft.Windows.Compatibility" Version="7.0.4" />
+		<PackageReference Include="Microsoft.Windows.Compatibility" Version="7.0.6" />
 	</ItemGroup>
 	<ItemGroup>
 	  <ProjectReference Include="..\CloneFinder.Core\CloneFinder.Core.csproj" />
